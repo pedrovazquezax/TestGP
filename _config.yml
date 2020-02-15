@@ -1,0 +1,32 @@
+title: "Road To WWDC"
+
+about: "Blog for the WWDC aplication"
+markdown: kramdown
+remote_theme: sharadcodes/jekyll-theme-milo
+url: ""
+baseurl: "/RoadToWWDC/"
+disqus_short_name: disqus-demo-page
+
+plugins: 
+  - jekyll-paginate
+  - jemoji
+  
+paginate_path: "/page:num/"
+
+paginate: 5
+
+
+main_toc:
+  - title: Home
+    url: ""
+  - title: Categories
+    url: "categories"
+  - title: About
+    url: "about"
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"
