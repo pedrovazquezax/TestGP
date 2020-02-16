@@ -3,11 +3,11 @@ title: Jekyll post
 layout: post
 date: 2018-10-09
 description: A complete post.
-image: 1.jpg
+image: 3.jpg
 categories: ["c"]
 ---
 
-Text can be **bold**, _italic_, ~~strikethjjjrough~~ or `keyword`
+Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`
 
 [Link to another page](./another-page.html).
 

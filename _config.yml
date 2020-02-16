@@ -1,10 +1,9 @@
-title: "Road To WWDC"
+title: "Milo"
 
-about: "Blog for the WWDC aplication"
+about: "Bootstrap theme for jekyll"
 markdown: kramdown
-remote_theme: sharadcodes/jekyll-theme-milo
 url: ""
-baseurl: "/RoadToWWDC/"
+baseurl: "/jekyll-theme-milo"
 disqus_short_name: disqus-demo-page
 
 plugins: 
@@ -15,14 +14,13 @@ paginate_path: "/page:num/"
 
 paginate: 5
 
-
 main_toc:
   - title: Home
     url: ""
-  - title: Categories
-    url: "categories"
   - title: About
     url: "about"
+  - title: Author
+    url: "author"
 
 defaults:
   -
