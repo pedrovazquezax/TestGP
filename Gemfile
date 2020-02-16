@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-git_source(:github) {|repo_name| "https://github.com/sharadcodes/jekyll-theme-milo" }
+#git_source(:github) {|repo_name| "https://github.com/sharadcodes/jekyll-theme-milo" }
 
 # gem "rails"
 
