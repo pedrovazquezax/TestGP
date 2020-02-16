@@ -1,5 +1,5 @@
 ---
-title: Jekyll post
+title: Playground Intro
 layout: post
 date: 2020-02-19
 description: A complete post.
